@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Katalog Modis</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nama">Nama Data : \n </string>
+    <string name="file">Nama File : \n </string>
+    <string name="satelit">Satelit : \n </string>
+    <string name="tanggal">Tanggal Akusisi : \n </string>
+    <string name="level">Level : \n</string>
+
+
+
+
+
+
+</resources>
